@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubhendam Shrotriya</h1>
 <h3 align="center">From Automation to Neural Networks | Python Developer on a Learning Quest</h3>
 
+- 🔭 I’m currently working on **Computer Vision**
+
 - 🌱 I’m currently learning **TensorFlow, Computer Vision**
+
+- 👯 I’m looking to collaborate on **Python Development Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
