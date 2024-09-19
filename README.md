@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhendam Shrotriya</h1>
-<h3 align="center">From Automation to Neural Networks | Python Developer on a Learning Quest</h3>
+<h3 align="center">From Automation to Neural Networks | Gen AI Python Developer on a Learning Quest</h3>
 
 - 🔭 I’m currently working on **Computer Vision**
 
