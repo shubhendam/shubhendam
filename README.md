@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubhendam Shrotriya</h1>
 <h3 align="center">From Automation to Neural Networks | Gen AI Python Developer on a Learning Quest</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **TensorFlow, Computer Vision**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **Python Development Projects**
 
